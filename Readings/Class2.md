@@ -11,8 +11,9 @@ java.util, java.lang, java.awt,java.sql
 ## Loops
 1. **For** loop: it repeats a certain operations on the code by using a counter and a condition on it.
 2. **While** loop: it repeates a certain operations on the code by checking a boolean-expression, in case the expression returned **true** the operations inside the loop will be executed. We can create infinite loop uisng While loop.
-3. **Do-while** loop: the only difference between it and the While loop that the operations inside it will be executed at least once even the expression returns **false**. Because the it execute the operations then check the expression.
+3. **Do-while** loop: the only difference between it and the While loop that the operations inside it will be executed at least once even the expression returns **false**. Because it execute the operations then check the expression.
 
 ## Arrays
 - Three buit-in methods for arrays: `Arrays.toString()`, `Arrays.sort()`, `Arrays.binarySearch()`.
 - The size of arrays are determined: dataType arrayName[]= new dataType[arraySize:number or varaiable], example: `int a[] = new int[5]`.
+- The array size can be accessed by using: `arrayName.length`.

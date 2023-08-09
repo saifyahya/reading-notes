@@ -10,4 +10,4 @@
 | --------------- | --------------- |
 | Reading class1 | [class1](Readings/Class1.md) |
 | Reading class2 | [class2](Readings/Class2.md) |
-| | |
+| Reading class3 | [class3](Readings/Class3.md) |
