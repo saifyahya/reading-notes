@@ -11,7 +11,7 @@
 
 2. Basic Navigation:
 - The Linux directory system is a hierarchical structure where files and directories are organized.
-- You navigate through directories using commands like cd (change directory) and ls (list files and directories).
+- You navigate through directories using commands like `cd` (change directory) and `ls` (list files and directories).
 - The root directory is denoted by "/", and relative paths (from the current location) and absolute paths (from the root) are used to specify locations.
 
 3. More About Files:
