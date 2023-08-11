@@ -5,5 +5,5 @@ This topic is very important with regards to what I'm learning in this module, s
 
 - The 3 things I’ll start doing whenever I get stuck on tough piece of code, logic, or feature are: 
 1. Determine the problem accurately and look at it from several aspects.
-2. break the problem into small pieces and don't treat it as a single stone, then solve each part indivisually.
+2. break down the problem into small pieces and don't treat it as a single stone, then solve each part indivisually.
 3. try to search about tips to help me in solution, and ask experts for assistant.
