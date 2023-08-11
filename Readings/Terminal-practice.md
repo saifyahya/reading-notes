@@ -26,7 +26,7 @@
 5. File Manipulation:
 - Creating files and directories is done with commands like `touch`, `mkdir`, and removing with `rm` (be cautious with this command).
 - Renaming files/directories uses `mv`, copying uses `cp`, and moving uses `mv` as well.
-- These commands can be combined with options to modify behavior (e.g., recursive copying with cp -r).
+- These commands can be combined with options to modify behavior (e.g., recursive copying with `cp -r`).
 
 6. Cheat Sheet:
 - A cheat sheet provides a quick reference to key commands and concepts covered in the tutorial.
