@@ -8,8 +8,9 @@
 
 | Content | Link |
 | --------------- | --------------- |
-| Engineering readings | [Engineering readings](Readings/Eng-readings.md) |
+| SQL Practice | [SQL](Readings/SQL-practice.md) |
+| Engineering Readings | [Engineering readings](Readings/Eng-readings.md) |
 | Data Structures | [DS](Readings/Data-Structure.md) |
-| Reading class1 | [class1](Readings/Class1.md) |
-| Reading class2 | [class2](Readings/Class2.md) |
-| Reading class3 | [class3](Readings/Class3.md) |
+| Reading Class1 | [class1](Readings/Class1.md) |
+| Reading Class2 | [class2](Readings/Class2.md) |
+| Reading Class3 | [class3](Readings/Class3.md) |
