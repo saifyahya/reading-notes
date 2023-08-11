@@ -8,6 +8,7 @@
 
 | Content | Link |
 | --------------- | --------------- |
+| Engineering readings | [Engineering readings](Readings/Eng-readings.md) |
 | Data Structures | [DS](Readings/Data-Structure.md) |
 | Reading class1 | [class1](Readings/Class1.md) |
 | Reading class2 | [class2](Readings/Class2.md) |
