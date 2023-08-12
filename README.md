@@ -8,6 +8,7 @@
 
 | Content | Link |
 | --------------- | --------------- |
+| Growth Mindset | [Growth Mindset](Readings/Growth-Mindset.md) |
 | TerminalL Practice | [Terminal](Readings/Terminal-practice.md) |
 | SQL Practice | [SQL](Readings/SQL-practice.md) |
 | Engineering Readings | [Engineering readings](Readings/Eng-readings.md) |
