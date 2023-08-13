@@ -16,3 +16,4 @@
 | Reading Class1 | [class1](Readings/Class1.md) |
 | Reading Class2 | [class2](Readings/Class2.md) |
 | Reading Class3 | [class3](Readings/Class3.md) |
+| Reading Class4 | [class4](Readings/Class4.md) |
