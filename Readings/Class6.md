@@ -1,6 +1,6 @@
 ## OOP
 - Class is the container for similar type methods and interfaces, it represents a general form of something like a general rectangle, while object is an instance of the class that have its own states and behaviors, example: a rectangle with specific width and height.   
-- Inheritance: it is a useful concept in OOP, it provides code reusability and satisfy DRY (Don't Repeat Your Self) principle. It allows similar type classes to inherit states, behaviors and interfaces from other classes. There is a class called super class, example: Student, and a sub-class that inerits from supder classes common states and behaviours, example: FirstYearStudent. 
+- Inheritance: it is a useful concept in OOP, it provides code reusability and satisfy DRY (Don't Repeat Your Self) principle. It allows similar type classes to inherits states, behaviors and interfaces from other classes. There is a class called super class, example: Student, and a sub-class that inerits from super classes common states and behaviors, example: FirstYearStudent. 
 
 ## Java *Static* keyword
 *Static methods* are also called *class methods*, because the are bind to the class itself not to the object and can be used directly by the class name without need to inistaniate an object. Making a variable *Static* means we can access it without need to inistaniate an object from the class, `ClassName.variableName`.
