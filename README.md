@@ -19,3 +19,5 @@
 | Reading Class4 | [class4](Readings/Class4.md) |
 | Reading Class5 | [class5](Readings/Class5.md) |
 | Reading Class6 | [class6](Readings/Class6.md) |
+| Reading Class8 | [class8](Readings/Class8.md) |
+| Reading Class9 | [class9](Readings/Class9.md) |
