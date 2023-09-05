@@ -22,3 +22,4 @@
 | Reading Class8 | [class8](Readings/Class8.md) |
 | Reading Class9 | [class9](Readings/Class9.md) |
 | Reading Class11 | [class11](Readings/Class11.md) |
+| Reading Class12 | [class12](Readings/Class12.md) |
