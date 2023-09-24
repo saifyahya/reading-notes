@@ -27,3 +27,5 @@
 | Reading Class14 | [class14](Readings/Class14.md) |
 | Reading Class16 | [class16](Readings/Class16.md) |
 | Reading Class17 | [class17](Readings/Class17.md) |
+| Reading Class18 | [class18](Readings/Class18.md) |
+
