@@ -31,5 +31,8 @@
 | Reading Class19 | [class19](Readings/Class19.md) |
 | Reading Class26 | [class26](Readings/Class26.md) |
 | Reading Class27 | [class27](Readings/Class27.md) |
+| Reading Class28 | [class28](Readings/Class28.md) |
+| Reading Class29 | [class29](Readings/Class29.md) |
+
 
 
