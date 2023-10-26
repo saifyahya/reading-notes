@@ -33,6 +33,7 @@
 | Reading Class27 | [class27](Readings/Class27.md) |
 | Reading Class28 | [class28](Readings/Class28.md) |
 | Reading Class29 | [class29](Readings/Class29.md) |
+| Reading Class30 | [class30](Readings/Class30.md) |
 
 
 
