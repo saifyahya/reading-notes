@@ -34,6 +34,8 @@
 | Reading Class28 | [class28](Readings/Class28.md) |
 | Reading Class29 | [class29](Readings/Class29.md) |
 | Reading Class30 | [class30](Readings/Class30.md) |
+| Reading Class31 | [class31](Readings/Class31.md) |
+
 
 
 
