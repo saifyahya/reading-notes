@@ -35,6 +35,9 @@
 | Reading Class29 | [class29](Readings/Class29.md) |
 | Reading Class30 | [class30](Readings/Class30.md) |
 | Reading Class31 | [class31](Readings/Class31.md) |
+| Reading Class32 | [class32](Readings/Class32.md) |
+| Reading Class33 | [class33](Readings/Class33.md) |
+
 
 
 
