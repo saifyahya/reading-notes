@@ -39,6 +39,10 @@
 | Reading Class33 | [class33](Readings/Class33.md) |
 | Reading Class34 | [class34](Readings/Class34.md) |
 | Reading Class35 | [class35](Readings/Class35.md) |
+| Reading Class37 | [class37](Readings/Class37.md) |
+| Reading Class38 | [class38](Readings/Class38.md) |
+| Reading Class39 | [class39](Readings/Class39.md) |
+
 
 
 
